@@ -24,6 +24,8 @@ class ViewController: UIViewController {
         Show(title: "The Queen's Gambit", description: "Orphaned at the tender age of nine, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA. But child stardom comes at a price.", releaseYears: "2020", imageName: "gambit"),
         Show(title: "Dr. House", description: "Using a crack team of doctors and his wits, an antisocial maverick doctor specializing in diagnostic medicine does whatever it takes to solve puzzling cases that come his way.", releaseYears: "2004-2012", imageName: "house"),
         Show(title: "The Good Doctor", description: "Shaun Murphy, a young surgeon with autism and Savant Syndrome, is recruited into the surgical unit of a prestigious hospital.", releaseYears: "2017-2024", imageName: "good_dr"),
+        Show(title: "Harry Potter", description: "An orphan boy, mistreated by his relatives, discovers he's a wizard. He receives a letter to attend Hogwarts School, where he finds friendship, magic, and adventure.", releaseYears: "2001 - 2011", imageName: "harry_potter"),
+        Show(title: "Money Heist", description: "An unusual group of robbers attempts to carry out the most perfect robbery in Spanish history: stealing 2.4 billion euros from the Royal Mint of Spain.", releaseYears: "2017 - 2011", imageName: "money_heist")
         
     ]
     private var currentIndex: Int?
